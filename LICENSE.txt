@@ -1,0 +1,31 @@
+**BOLVI — PROPRIETARY SOFTWARE LICENSE**
+
+Copyright © 2026 Bolvi. All rights reserved.
+
+This software, including its source code, design, documentation, features, and related materials, is proprietary and protected by applicable copyright laws.
+
+**Restrictions**
+
+No person or organization may, without prior written permission from the copyright holder:
+
+- Copy, reproduce, or distribute this software.
+- Modify, adapt, or create derivative works.
+- Publish, sublicense, sell, or commercially exploit the software.
+- Use the source code or any part of it in another project.
+- Redistribute this software in whole or in part.
+
+**Ownership**
+
+All rights, title, and interest in the Bolvi software remain with the copyright holder.
+
+Third-party libraries, frameworks, and dependencies are subject to their respective licenses.
+
+**No Permission Granted**
+
+Access to this repository does not grant any license or permission to use, copy, modify, or distribute the software.
+
+**Contact**
+
+For licensing requests or permissions, contact the copyright holder.
+
+All rights reserved.
